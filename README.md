@@ -51,6 +51,10 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
 
+- ## ss
+![0](https://github.com/mirzagamers/web-absensi/assets/172612996/99af1638-444e-4ccb-8a91-787127681b86)
+
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
