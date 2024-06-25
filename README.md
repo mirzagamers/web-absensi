@@ -6,6 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+![0](https://github.com/mirzagamers/web-absensi/assets/172612996/99af1638-444e-4ccb-8a91-787127681b86)
+
 
 ## About Laravel
 
