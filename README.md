@@ -1,5 +1,4 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-!(https://github.com/mirzagamers/web-absensi/assets/172612996/99af1638-444e-4ccb-8a91-787127681b86)
 
 
 <p align="center">
@@ -53,6 +52,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 - ## ss
 ![0](https://github.com/mirzagamers/web-absensi/assets/172612996/99af1638-444e-4ccb-8a91-787127681b86)
+bagian dashboard
 
 
 ## Contributing
