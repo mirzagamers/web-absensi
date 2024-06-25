@@ -50,9 +50,23 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
 
-- ## ss
+- ## bagian login
 ![0](https://github.com/mirzagamers/web-absensi/assets/172612996/99af1638-444e-4ccb-8a91-787127681b86)
-bagian dashboard
+bagian login
+
+## bagian dashboard
+![1](https://github.com/mirzagamers/web-absensi/assets/172612996/fd1b592e-6cb3-49ab-b8f4-0fd87b1bc133)
+
+## bagian karyawan 
+![2](https://github.com/mirzagamers/web-absensi/assets/172612996/e82d389a-0ed6-42c2-805e-5e3199137a49)
+
+## bagian jabatan
+![3](https://github.com/mirzagamers/web-absensi/assets/172612996/fa3b2516-c157-43af-83c3-d985e5791173)
+
+## bagian slip gaji
+![4](https://github.com/mirzagamers/web-absensi/assets/172612996/3de5d8a1-0535-4ebb-804e-db8305fab13d)
+
+
 
 
 ## Contributing
